@@ -1,0 +1,7 @@
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Validator\bin\Debug\RumorNetwork.Validator.dll
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Validator\bin\Debug\RumorNetwork.Validator.pdb
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Validator\bin\Debug\RumorNetwork.Util.dll
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Validator\bin\Debug\RumorNetwork.Util.pdb
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Validator\obj\Debug\RumorNetwork.Validator.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Validator\obj\Debug\RumorNetwork.Validator.dll
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Validator\obj\Debug\RumorNetwork.Validator.pdb

@@ -1,0 +1,5 @@
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Util\bin\Debug\RumorNetwork.Util.dll
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Util\bin\Debug\RumorNetwork.Util.pdb
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Util\obj\Debug\RumorNetwork.Util.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Util\obj\Debug\RumorNetwork.Util.dll
+C:\Users\1\documents\visual studio 2015\Projects\RumorNetwork\RumorNetwork.Util\obj\Debug\RumorNetwork.Util.pdb

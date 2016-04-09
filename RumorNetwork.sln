@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumorNetwork", "RumorNetwork\RumorNetwork.csproj", "{DC65077D-B84E-4D2A-829C-3A5A0A1D140F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumorNetwork.Logic", "RumorNetwork.Logic\RumorNetwork.Logic.csproj", "{1C437BB8-71B8-46C0-BCCC-CA1CAF55506D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumorNetwork.Validator", "RumorNetwork.Validator\RumorNetwork.Validator.csproj", "{48E16E26-FCFC-4526-A95A-3B305CA39754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumorNetwork.Util", "RumorNetwork.Util\RumorNetwork.Util.csproj", "{8FDB47AA-FE61-45C4-BE0C-E644EC64DE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC65077D-B84E-4D2A-829C-3A5A0A1D140F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC65077D-B84E-4D2A-829C-3A5A0A1D140F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC65077D-B84E-4D2A-829C-3A5A0A1D140F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC65077D-B84E-4D2A-829C-3A5A0A1D140F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C437BB8-71B8-46C0-BCCC-CA1CAF55506D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C437BB8-71B8-46C0-BCCC-CA1CAF55506D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C437BB8-71B8-46C0-BCCC-CA1CAF55506D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C437BB8-71B8-46C0-BCCC-CA1CAF55506D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E16E26-FCFC-4526-A95A-3B305CA39754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E16E26-FCFC-4526-A95A-3B305CA39754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E16E26-FCFC-4526-A95A-3B305CA39754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E16E26-FCFC-4526-A95A-3B305CA39754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDB47AA-FE61-45C4-BE0C-E644EC64DE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDB47AA-FE61-45C4-BE0C-E644EC64DE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDB47AA-FE61-45C4-BE0C-E644EC64DE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDB47AA-FE61-45C4-BE0C-E644EC64DE37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
